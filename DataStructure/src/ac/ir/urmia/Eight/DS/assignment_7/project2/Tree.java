@@ -6,7 +6,6 @@ import java.util.List;
 
 public class Tree<T> {
 
-    public ArrayList<TreeNode<T>> nodes;
     private TreeNode<T> root;
 
 
